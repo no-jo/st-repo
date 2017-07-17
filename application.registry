@@ -2,5 +2,6 @@ App: RoomManagerApp
 Controllers: MainController
 Windows: ConfigurationWindow
 WebServices: RoomsWebService, BuildingsWebService
+New line for stashing
 
 
